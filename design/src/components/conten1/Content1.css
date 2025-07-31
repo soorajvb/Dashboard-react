@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    /* background-color: rgb(212, 212, 212); */
+    width: 100%;
+    padding: 30px 60px;
+    justify-content: space-between;
+}
+.item{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    width: 12%;
+    padding: 5px;
+    border-radius: 5px;
+}  
+.item-image{
+     padding: 5px 10px;
+     background-color: rgb(255, 255, 255);
+}
+.item-image img{
+    width: 40px;
+    background-color: rgb(193, 7, 193);
+}
+.item-content{
+       width: 100%;
+       padding: 10px;
+       
+}
