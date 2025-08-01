@@ -1,0 +1,58 @@
+.content3{
+    /* height: 200px; */
+    width: 100%;
+    /* background-color: red; */
+    display: flex;
+    margin-top: 15px;
+    padding: 10px;
+    flex-direction: column;
+    padding: 0 53px;
+    
+   
+
+}
+.options{
+    /* display: flex; */
+    align-items: center;
+ background-color: white;
+    width: 100%;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+.content3 ul li a{
+    text-decoration: none;
+    background-color: azure;
+}
+.content3 ul{
+    display: flex;
+    gap: 40px;
+    
+
+}
+.content3  ul li{
+    display: flex;
+}
+table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    thead th {
+      text-align: left;
+      padding: 12px;
+      background-color: #fafafa;
+      color: #333;
+      font-weight: 600;
+    }
+
+    tbody td {
+      padding: 12px;
+      border: none;
+      border-bottom: 1px solid #eee; /* Optional: subtle row separator */
+      color: #333;
+    }
+
+    tbody tr:last-child td {
+      border-bottom: none; /* Remove border from last row */
+    }
