@@ -56,3 +56,27 @@ table {
     tbody tr:last-child td {
       border-bottom: none; /* Remove border from last row */
     }
+    .btn1{
+        width: 100px;
+        height: 25px;
+        border: none;
+        background-color: #00d1b2;
+        color: white;
+        border-radius: 10px;
+    }
+    .btn2{
+        width: 100px;
+        height: 25px;
+        border: none;
+        background-color:#ffa500 ;
+        color: white;
+        border-radius: 10px;
+    }
+    .btn3{
+        width: 100px;
+        height: 25px;
+        border: none;
+        background-color:#ff3b30 ;
+        color: white;
+        border-radius: 10px;
+        }
